@@ -1,3 +1,5 @@
+Need to install MPT3: https://www.mpt3.org/
+
 Run example to see the results.
 
 activeFun: define activation functions.
